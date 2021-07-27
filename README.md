@@ -1,4 +1,4 @@
-# AI_Product_Management_Nonodegree
+# AI_Product_Management_Nanodegree
 Built familiarity and fluency with common AI concepts. Learned how to evaluate the business value of an AI product, train a model, and evaluate its business impact.
 
 I worked on these 3 projects:
